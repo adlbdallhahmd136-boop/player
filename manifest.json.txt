@@ -1,0 +1,17 @@
+{
+  "name": "Orca Player",
+  "short_name": "Orca",
+  "description": "Elegant music player that reads all audio files from your device.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e1e2f",
+  "icons": [
+    {
+      "src": "https://k.top4top.io/p_3816zm6mf0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
